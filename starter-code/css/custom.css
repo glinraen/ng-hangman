@@ -9,3 +9,17 @@ body { font-size: 32px; }
   font-size: 14px;
   vertical-align: middle;
 }
+
+.glyphicon-ok {
+	color: green;
+	font-size: 40px;
+}
+
+.glyphicon-remove {
+	color: red;
+	font-size: 40px;
+}
+
+.win-font {
+	color: green;
+}
